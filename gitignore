@@ -1,0 +1,5 @@
+xray
+config.json
+state.json
+node_modules
+*.log
